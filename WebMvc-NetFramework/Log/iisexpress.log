@@ -1,0 +1,30 @@
+2020-06-11 09:34:04.9502|WebMvc_NetFramework.Startup|INFO|22772|1|Startup.Configuration 
+2020-06-11 09:34:11.4454|WebMvc_NetFramework.Controllers.HomeController|INFO|22772|9|HomeController.Index 
+2020-06-11 09:34:11.8798|WebMvc_NetFramework.Controllers.HomeController|DEBUG|22772|9|Debug Message 
+2020-06-11 09:34:12.1530|MeeHealth.Audit|INFO|22772|9|HomeController.Audit 
+2020-06-11 09:34:12.4517|MeeHealth.Audit|INFO|22772|9|Enter HomeController 
+2020-06-11 09:34:12.4585|WebMvc_NetFramework.Controllers.HomeController|DEBUG|22772|9|Pass my custom value 
+2020-06-11 09:38:07.7472|WebMvc_NetFramework.Startup|INFO|18596|1|Startup.Configuration 
+2020-06-11 09:38:08.1835|WebMvc_NetFramework.Controllers.HomeController|INFO|18596|9|HomeController.Index 
+2020-06-11 09:38:08.1835|WebMvc_NetFramework.Controllers.HomeController|DEBUG|18596|9|Debug Message 
+2020-06-11 09:38:08.2030|MeeHealth.Audit|INFO|18596|9|HomeController.Audit 
+2020-06-11 09:38:08.2030|MeeHealth.Audit|INFO|18596|9|Enter HomeController 
+2020-06-11 09:38:08.2079|WebMvc_NetFramework.Controllers.HomeController|DEBUG|18596|9|Pass my custom value 
+2020-06-11 09:38:37.6307|MeeHealth.Audit.Icis|ERROR|18596|9|wagnerhsu@hotmail.com invalid login 
+2020-06-11 13:52:46.5453|WebMvc_NetFramework.Startup|INFO|1596|1|Startup.Configuration 
+2020-06-11 13:52:47.0370|WebMvc_NetFramework.Controllers.HomeController|INFO|1596|9|HomeController.Index:2020/6/11 13:52:47 
+2020-06-11 13:52:47.0370|MeeHealth.Audit|INFO|1596|9|HomeController.Audit 
+2020-06-11 13:54:22.5075|WebMvc_NetFramework.Controllers.HomeController|INFO|1596|9|HomeController.Index:2020/6/11 13:54:22 
+2020-06-11 13:54:22.5075|MeeHealth.Audit|INFO|1596|9|HomeController.Audit 
+2020-06-11 13:54:25.8270|WebMvc_NetFramework.Controllers.HomeController|INFO|1596|9|HomeController.Index:2020/6/11 13:54:25 
+2020-06-11 13:54:25.8270|MeeHealth.Audit|INFO|1596|9|HomeController.Audit 
+2020-06-11 13:54:52.1723|WebMvc_NetFramework.Startup|INFO|4808|1|Startup.Configuration 
+2020-06-11 13:54:52.6261|WebMvc_NetFramework.Controllers.HomeController|INFO|4808|10|HomeController.Index:2020/6/11 13:54:52 
+2020-06-11 13:54:52.6261|MeeHealth.Audit|INFO|4808|10|HomeController.Audit 
+2020-06-11 13:55:02.7383|WebMvc_NetFramework.Controllers.HomeController|INFO|4808|11|HomeController.Index:2020/6/11 13:55:02 
+2020-06-11 13:55:02.7413|MeeHealth.Audit|INFO|4808|11|HomeController.Audit 
+2020-06-11 13:55:40.6498|MeeHealth.Audit.Icis.Account|ERROR|4808|13|1@example.com invalid login 
+2020-06-11 13:56:25.8138|WebMvc_NetFramework.Startup|INFO|12236|1|Startup.Configuration 
+2020-06-11 13:56:26.2008|WebMvc_NetFramework.Controllers.HomeController|INFO|12236|10|HomeController.Index:2020/6/11 13:56:26 
+2020-06-11 13:56:26.2008|MeeHealth.Audit|INFO|12236|10|HomeController.Audit 
+2020-06-11 13:56:41.3144|MeeHealth.Audit.Icis.Account|ERROR|12236|12|wagner.xu@meehealth.com invalid login 

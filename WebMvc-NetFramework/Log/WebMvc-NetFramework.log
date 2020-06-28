@@ -1,0 +1,26 @@
+2020-06-10 14:27:08.9246|MeeHealth.Audit.Icis|ERROR|12036|14|wagner.xu@meehealth.com invalid login 
+2020-06-10 14:28:15.1872|MeeHealth.Audit.Icis|ERROR|12036|14|wagner.xu@meehealth.com invalid login 
+2020-06-10 14:34:37.0461|WebMvc_NetFramework.Startup|INFO|1752|1|Startup.Configuration 
+2020-06-10 14:34:37.7762|WebMvc_NetFramework.Controllers.HomeController|INFO|1752|10|HomeController.Index 
+2020-06-10 14:34:37.7762|MeeHealth.Audit|INFO|1752|10|HomeController.Audit 
+2020-06-10 14:34:57.4344|MeeHealth.Audit.Icis|ERROR|1752|10|wagnerhsu@hotmail.com invalid login 
+2020-06-10 14:42:33.6397|WebMvc_NetFramework.Startup|INFO|8784|1|Startup.Configuration 
+2020-06-10 14:42:34.0906|WebMvc_NetFramework.Controllers.HomeController|INFO|8784|10|HomeController.Index 
+2020-06-10 14:42:34.0906|WebMvc_NetFramework.Controllers.HomeController|DEBUG|8784|10|Debug Message 
+2020-06-10 14:42:34.1062|MeeHealth.Audit|INFO|8784|10|HomeController.Audit 
+2020-06-10 14:42:34.1062|MeeHealth.Audit|INFO|8784|10|Enter HomeController 
+2020-06-10 14:42:55.5120|MeeHealth.Audit.Icis|ERROR|8784|11|wagner@example.com invalid login 
+2020-06-10 14:45:17.2881|MeeHealth.Audit.Icis|ERROR|8784|12|wagner@example.com invalid login 
+2020-06-10 14:45:21.9812|MeeHealth.Audit.Icis|ERROR|8784|8|wagner@example.com invalid login 
+2020-06-10 14:45:54.4817|WebMvc_NetFramework.Startup|INFO|15312|1|Startup.Configuration 
+2020-06-10 14:45:54.8682|WebMvc_NetFramework.Controllers.HomeController|INFO|15312|10|HomeController.Index 
+2020-06-10 14:45:54.8682|WebMvc_NetFramework.Controllers.HomeController|DEBUG|15312|10|Debug Message 
+2020-06-10 14:45:54.8867|MeeHealth.Audit|INFO|15312|10|HomeController.Audit 
+2020-06-10 14:45:54.8867|MeeHealth.Audit|INFO|15312|10|Enter HomeController 
+2020-06-10 14:46:33.7500|MeeHealth.Audit.Icis|ERROR|15312|10|wagnerhsu@hotmail.com invalid login 
+2020-06-10 14:55:03.4879|WebMvc_NetFramework.Startup|INFO|9440|1|Startup.Configuration 
+2020-06-10 14:55:03.9701|WebMvc_NetFramework.Controllers.HomeController|INFO|9440|9|HomeController.Index 
+2020-06-10 14:55:03.9740|WebMvc_NetFramework.Controllers.HomeController|DEBUG|9440|9|Debug Message 
+2020-06-10 14:55:03.9984|MeeHealth.Audit|INFO|9440|9|HomeController.Audit 
+2020-06-10 14:55:03.9984|MeeHealth.Audit|INFO|9440|9|Enter HomeController 
+2020-06-10 14:55:03.9984|WebMvc_NetFramework.Controllers.HomeController|DEBUG|9440|9|Pass my custom value 
